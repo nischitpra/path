@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1431692139 source:c:\users\nischit\desktop\nischit\codeblock\codechef\path\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<fstream>
+
+1431777806 source:c:\users\nischit\desktop\nischit\codeblock\game\path\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<fstream>
+	<ctime>
+
